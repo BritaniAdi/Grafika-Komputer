@@ -1,4 +1,3 @@
-from traceback import print_tb
 import matplotlib.pyplot as plt
 print["Enter the value of x1:  "]
 x1 = int(input())
